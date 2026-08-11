@@ -27,17 +27,6 @@ I enjoy working across the stack — from designing interfaces and REST APIs to 
 * AI/ML: Python + TensorFlow + PyTorch + YOLO + U-Net + OpenCV
 * Other: REST APIs + Firebase + Judge0 + Postman
 
-### 💻 Projects
-
-#### Apps
-
-* **[🦴 Scoliotect](YOUR_REPO_URL)** — Computer-vision based system for automatically assessing scoliosis severity from spinal X-rays and back images. Uses **YOLOv8 + U-Net/ResNet + OpenCV** to detect spinal regions, segment the spine, and automatically estimate the **Cobb angle**.
-
-* **[💻 CodeTrack](YOUR_REPO_URL)** — Full-stack online coding platform built with the MERN stack. Includes authentication, coding problems, submission history, progress tracking, and sandboxed multi-language code execution using **Judge0**.
-
-* **[☁️ VaultBox](YOUR_REPO_URL)** — Secure serverless file-storage system using **AWS S3 + DynamoDB** with authentication, IAM-based access control, REST APIs, and pre-signed URLs for secure uploads and downloads.
-
-* **[🤖 Music Genre Classification](YOUR_REPO_URL)** — Deep-learning based music classification system using **TensorFlow, Librosa, NumPy and Streamlit**. Uses MFCC and Mel-spectrogram features to classify music into multiple genres.
 ### 🛠️ Tools & Technologies
 
 <p align="center">
@@ -47,10 +36,8 @@ I enjoy working across the stack — from designing interfaces and REST APIs to 
 ### ☁️ Cloud & Certifications
 
 * ☁️ **AWS Certified Solutions Architect – Associate**
-* 🍃 MongoDB Certified Associate Developer**
-* 🤖 **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**
-* ☁️ **AWS Academy Graduate – Cloud Foundations**
-* ☁️ **AWS Academy Graduate – Cloud Architecting**
+* 🍃 **MongoDB Certified Associate Developer**
+* 🤖 **Oracle Cloud Infrastructure Certified Generative AI Professional**
 
 ### 🚀 What I Like Building
 
