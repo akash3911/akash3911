@@ -30,7 +30,7 @@ I enjoy working across the stack — from designing interfaces and REST APIs to 
 ### 🛠️ Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,spring,js,html,css,react,nodejs,express,mongodb,mysql,postgres,aws,docker,git,github,linux,tensorflow,opencv" />
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,go,react,nextjs,nodejs,express,fastapi,postgres,sqlite,mongodb,redis,linux,aws,docker,git,github,githubactions" />
 </p>
 
 ### ☁️ Cloud & Certifications
