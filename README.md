@@ -2,7 +2,7 @@
 <p align="center"><b>Computer Science Engineer from VIT-AP 🇮🇳</b></p>
 
 <p align="center">
-  <a href="aka-sh.me" target="_blank"> Portfolio </a>
+  <a href="https://aka-sh.me" target="_blank"> Portfolio </a>
 </p>
 
 <p align="center">
