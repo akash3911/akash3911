@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Akash</h1>
-<p align="center"><b>Computer Science Engineer from VIT-AP 🇮🇳</b></p>
+
 
 <p align="center">
   <a href="https://aka-sh.me" target="_blank"> Portfolio </a>
